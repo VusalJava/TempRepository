@@ -1,1 +1,13 @@
-Hello world!!!
+Hello world!!!123
+
+cd Desktop\
+mkdir test-git-project
+C:\Users\aliev\Desktop\test-git-project>git init
+git status
+git add file1 file2
+git commit -m "Message"
+git log
+git diff
+git diff --staged
+
+
