@@ -16,4 +16,7 @@ git reset --mixed[soft,hard] HEAD~1
 
 git checkout [hash] master -- file1
 
+git commit -a -m == git add + git commit -m
+git commit --amend -m
+
 
