@@ -19,4 +19,7 @@ git checkout [hash] master -- file1
 git commit -a -m == git add + git commit -m
 git commit --amend -m
 
+git clean -n == удаление untracked файлов
+git clean -f
+
 
