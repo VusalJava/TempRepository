@@ -14,4 +14,6 @@ git diff --staged
 
 git reset --mixed[soft,hard] HEAD~1
 
+git checkout [hash] master -- file1
+
 
