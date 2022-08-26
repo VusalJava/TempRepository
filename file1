@@ -28,6 +28,9 @@ git remote -v
 Authorize for github
 git push origin master
 
+git remote add origin[] https://github.com/VusalJava/TempRepository.git
+git pull origin master
+
 
 
 
