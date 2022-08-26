@@ -34,6 +34,14 @@ git pull origin master
 create folder for cloning
 git clone [https://github.com/VusalJava/TempRepository.git]
 
+git branch [new branch] == список локальных веток
+git branch -r == список удаленных веток
+git checkout [new branch]
+git checkout master
+git merge [new branch]
+git branch -d add-feature1
+
+
 
 
 
