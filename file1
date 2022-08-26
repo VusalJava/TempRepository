@@ -22,4 +22,12 @@ git commit --amend -m
 git clean -n == удаление untracked файлов
 git clean -f
 
+create repository in github[https://github.com/VusalJava/TempRepository.git]
+git remote add origin[] https://github.com/VusalJava/TempRepository.git
+git remote -v
+Authorize for github
+git push origin master
+
+
+
 
