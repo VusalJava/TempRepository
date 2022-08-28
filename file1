@@ -41,6 +41,11 @@ git checkout master
 git merge [new branch]
 git branch -d add-feature1
 
+git remove show origin == показывает все локальные/удаленные ветки и их состояния
+git push --delete origin [branch-name] == локаольно удаление удаленной ветки 
+git checkout master
+git branch  -D [branch-name] == удаление локальной ветки после ее удаления на удаленном репозитории
+
 
 
 
